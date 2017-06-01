@@ -1,0 +1,149 @@
+body {
+    padding-top: 50px;
+}
+#headerWrapper {
+    position: relative;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    height: 800px;
+    background-image: url(../images/img1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#logotext {
+    position: absolute;
+    width: 100%;
+    height: 100px;
+    /*background-image: url(../images/logo.png);*/
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 70% 180px;
+    top: 50%;
+    margin-top: -90px;
+    
+    }
+    
+    h1 {
+        font-weight: 700;
+        font-size: 5em;
+        color: whitesmoke;
+        text-align: center;
+    }  
+    #for-flower {
+        position: absolute;
+        width: 100%;
+        height: 400px;
+        background-image: url(../images/cvet.png);
+        background-size: auto 400px;
+        background-repeat: no-repeat;
+        background-position: right bottom;
+        top:
+            525px;
+        right: -50px;
+    }
+    #back-flower {
+        position: absolute;
+        width: 100%;
+        height: 350px;
+        background-image: url(../images/cvet.png);
+        background-position: left bottom;
+        background-repeat: no-repeat;
+        background-size: auto 350px;
+        top: 600px;
+        left: -25px;
+        
+            
+    }
+    #part-headerWrapper {
+    position: relative;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    height: 350px;
+    background-image: url(../images/img1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#part-logotext {
+    position: absolute;
+    width: 100%;
+    height: 100px;
+    /*background-image: url(../images/logo.png);*/
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 70% 180px;
+    top: 50%;
+    margin-top: -90px;
+    
+    }
+    #part-for-flower {
+        position: absolute;
+        width: 100%;
+        height: 400px;
+        background-image: url(../images/cvet.png);
+        background-size: auto 400px;
+        background-repeat: no-repeat;
+        background-position: right bottom;
+        top:
+            125px;
+        right: -50px;
+    }
+    #part-back-flower {
+        position: absolute;
+        width: 100%;
+        height: 350px;
+        background-image: url(../images/cvet.png);
+        background-position: left bottom;
+        background-repeat: no-repeat;
+        background-size: auto 350px;
+        top: 125px;
+        left: -25px;
+        
+            
+    }
+    #add-product-btn {
+        margin-top: -35px;
+    }
+    .img-thumb {
+        width: auto;
+        height: 200px;
+    } 
+    
+    #footer {
+        margin:50px auto;
+    }
+    
+    img.details {
+        width: 90%;
+        margin: 15px auto;
+            
+    }    
+    .table-auto {
+        width: auto;
+        margin: 0 auto;
+    }
+    #footer {
+        margin: 0 auto;
+    }
+    .saved-image img {
+        width: 200px;
+        height: auto;
+    }
+    #login-form {
+        width: 50%;
+        height: 60%;
+        border: 2px solid #000;
+        border-radius: 15px;
+        box-shadow: 7px 7px 15px rgba(0,0,0,0.6);
+        margin: 7% auto;
+        padding: 15px;
+        background-color: #fff;
+        
+    }
