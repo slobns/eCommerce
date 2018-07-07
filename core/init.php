@@ -1,6 +1,6 @@
 <?php
 
-$db = mysqli_connect('localhost', 'root', '', 'ecommerc');
+$db = mysqli_connect('', '', '', ''); // insert your data here
 if(mysqli_connect_errno()) {
     echo 'Konekcija sa bazom nije uspela. Greska je : '.mysqli_connect_error();
     die;
